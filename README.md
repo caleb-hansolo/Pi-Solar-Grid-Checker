@@ -1,6 +1,10 @@
 # Pi-Solar-Grid-Checker
-<p>Originally made in February of 2023 for the UNO IT Innovation Cup - the old repository was on a friend's deleted account</p>
 
+<p align="center">
+  <img src="PiSGC Logo.jpg" height="250">
+</p>
+
+<p>Originally made in February of 2023 for the UNO IT Innovation Cup - the old repository was on a friend's deleted account</p>
 
 
 ### Overview
